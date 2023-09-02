@@ -9,4 +9,4 @@ Mi pasión son las computadoras y todo lo que tenga que ver con ellas y les rode
 * 🌍  I'm based in Mocoa Putumayo
 * ✉️  You can contact me at [jhonatansanchez2021@itp.edu.co](mailto:jhonatansanchez2021@itp.edu.co)
 * 🧠  I'm learning Django, Flutter, Python, MySql
-* 🤝  I'm open to collaborating on Pr
+* 🤝  I'm open to collaborating on Proyectos de investigación y desarrollo
